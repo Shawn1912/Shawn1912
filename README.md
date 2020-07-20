@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am deeply passionate about **music** 🎵 and **art** :art:
 
 
-<img align="right" alt="GIF"  width="370px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="GIF"  width="330px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
    <a href="https://www.linkedin.com/in/shawnlouis/">
   <img align="left" alt="Shawn's LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
