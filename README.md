@@ -5,10 +5,8 @@
 -->
 
 - 🔭 I’m currently working on **[PQuery](https://github.com/Shawn1912/PQuery)**
-<!-- - 👨‍✈️ I'm __Maintainer__ at **[name](link)** -->
 - 🌱 I’m currently learning **React** ❄ and **Flutter** :bird:
 - 👯 I’m looking to collaborate on projects involving **Python** and **JavaScript**
-<!-- - 🤔 I’m looking for help with understanding people's selective behaviour -->
 - 💬 I would like to discuss about **JavaScript** and **React** **Framework**
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/shawnlouis)** or **[Twitter](https://twitter.com/ShaLo1912)**
 - 😄 Pronouns: He/Him :man:
