@@ -21,5 +21,8 @@
 
 #### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+
+
 <!--title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515 -->
