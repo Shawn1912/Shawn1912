@@ -13,7 +13,7 @@
   <img align="left" alt="Shawn's LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
- <a href="www.youtube.com/channel/UCvyHTx6TPnUlqBK8kq4-SNw">
+ <a href="https://www.youtube.com/channel/UCvyHTx6TPnUlqBK8kq4-SNw">
   <img align="left" alt="Shawn's YouTube" width="40px" height="30px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
