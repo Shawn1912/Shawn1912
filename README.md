@@ -22,7 +22,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false)
 <a href="https://github.com/Shawn1912">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn1912" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn1912&layout=compact" />
 </a>
 
 
