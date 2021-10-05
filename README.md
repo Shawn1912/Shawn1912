@@ -49,10 +49,10 @@
 <br />
 
 <a href="https://github.com/Shawn1912">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn1912&layout=compact" height=180 />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn1912&layout=compact" height=170 />
 </a>
 <a href="https://github.com/Shawn1912">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false" height=180 />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false" height=170 />
 </a>
 
 
