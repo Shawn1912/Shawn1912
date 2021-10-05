@@ -16,8 +16,8 @@
 - 👯 I’m looking to collaborate on projects involving **Python** and **JavaScript**
 - 🤔 I’m looking for help with **Neural Networks**
 - 💬 I would like to discuss about **JavaScript** and **React** **Framework** ❄
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lavsharmaa)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lavsharmaa)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shawnlouis)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ShaLo1912)
 - ⚡ Fun fact: I am deeply passionate about **music** 🎵 and **art** :art:
 <!-- How to reach me: **[LinkedIn](https://linkedin.com/in/shawnlouis)** or **[Twitter](https://twitter.com/ShaLo1912)** -->
 
