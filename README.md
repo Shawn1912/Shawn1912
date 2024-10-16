@@ -1,8 +1,5 @@
 <h1 align="center">Hey there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shawn!</h1>
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
-   <a href="https://github.com/Shawn1912">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=shawn1912.shawn1912">
-   </a>
    <a href="https://github.com/shawn1912?tab=repositories">
       <img src="https://badges.pufler.dev/repos/shawn1912?style=flat-square&color=black&logo=github">
    </a>
