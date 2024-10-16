@@ -11,11 +11,8 @@
    </a>
 </p>
 
-- 🔭 I’m currently working on **[StreamX](https://github.com/Shawn1912/music-player-kotlin)**
-- 🌱 I’m currently learning **Kotlin** <img  src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="12px"> and **Hadoop** :elephant:
-- 👯 I’m looking to collaborate on projects involving **Python** and **JavaScript**
-- 🤔 I’m looking for help with **Neural Networks**
-- 💬 I would like to discuss about **JavaScript** and **React** **Framework** ❄
+- 🌱 I’m currently learning **Go Lang**
+- 👯 I’m looking to collaborate on projects involving **Python** and **TypeScript**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shawnlouis)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ShaLo1912)
 - ⚡ Fun fact: I am deeply passionate about **music** 🎵 and **art** :art:
@@ -31,9 +28,6 @@
    <a href="https://www.linkedin.com/in/shawnlouis" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height=25 alt="LinkedIn">
    </a>
-   <a href="https://www.instagram.com/louis.shawn" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height=25 alt="Instagram">
-   </a>
    <a href="https://open.spotify.com/user/31slhpxihibou7w5xm2nnw36dogi?si=249520a02ea74eb9" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" height=25 alt="Spotify">
    </a>
@@ -47,16 +41,6 @@
 </div>
 
 <br />
-
-<a href="https://github.com/Shawn1912">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn1912&layout=compact" height=170 />
-</a>
-<a href="https://github.com/Shawn1912">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shawn1912&show_icons=true&hide_border=false" height=170 />
-</a>
-
-
-
 
 
 <!-- <hr>
